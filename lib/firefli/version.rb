@@ -1,0 +1,3 @@
+module Firefli
+  VERSION = "0.0.1"
+end
